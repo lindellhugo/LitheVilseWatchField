@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="18" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="19" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="20" pc="268435478" symbol="initialize"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="21" pc="268435488" symbol="initialize"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="25" pc="268435523" symbol="onLayout"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="26" pc="268435527" symbol="onLayout"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="29" pc="268435564" symbol="onLayout"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="32" pc="268435607" symbol="onLayout"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="36" pc="268435627" symbol="onLayout"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="37" pc="268435650" symbol="onLayout"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="45" pc="268435769" symbol="onLayout"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="48" pc="268435778" symbol="onLayout"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="55" pc="268435843" symbol="onShow"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="64" pc="268435848" symbol="generateHandCoordinates"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="66" pc="268435852" symbol="generateHandCoordinates"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="67" pc="268436044" symbol="generateHandCoordinates"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="68" pc="268436052" symbol="generateHandCoordinates"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="69" pc="268436073" symbol="generateHandCoordinates"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="72" pc="268436094" symbol="generateHandCoordinates"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="73" pc="268436112" symbol="generateHandCoordinates"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="74" pc="268436149" symbol="generateHandCoordinates"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="76" pc="268436186" symbol="generateHandCoordinates"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="79" pc="268436248" symbol="generateHandCoordinates"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="83" pc="268436252" symbol="generateTipCoordinates"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="85" pc="268436256" symbol="generateTipCoordinates"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="86" pc="268436408" symbol="generateTipCoordinates"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="87" pc="268436416" symbol="generateTipCoordinates"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="88" pc="268436437" symbol="generateTipCoordinates"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="91" pc="268436458" symbol="generateTipCoordinates"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="92" pc="268436476" symbol="generateTipCoordinates"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="93" pc="268436513" symbol="generateTipCoordinates"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="95" pc="268436550" symbol="generateTipCoordinates"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="98" pc="268436612" symbol="generateTipCoordinates"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="103" pc="268436616" symbol="onUpdate"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="106" pc="268436620" symbol="onUpdate"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="107" pc="268436620" symbol="onUpdate"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="108" pc="268436620" symbol="onUpdate"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="109" pc="268436633" symbol="onUpdate"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="110" pc="268436652" symbol="onUpdate"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="111" pc="268436652" symbol="onUpdate"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="112" pc="268436652" symbol="onUpdate"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="113" pc="268436652" symbol="onUpdate"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="114" pc="268436655" symbol="onUpdate"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="117" pc="268436662" symbol="onUpdate"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="119" pc="268436672" symbol="onUpdate"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="120" pc="268436685" symbol="onUpdate"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="121" pc="268436697" symbol="onUpdate"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="124" pc="268436706" symbol="onUpdate"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="126" pc="268436728" symbol="onUpdate"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="129" pc="268436732" symbol="onUpdate"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="130" pc="268436745" symbol="onUpdate"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="133" pc="268436758" symbol="onUpdate"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="134" pc="268436798" symbol="onUpdate"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="138" pc="268436842" symbol="onUpdate"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="139" pc="268436855" symbol="onUpdate"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="140" pc="268436915" symbol="onUpdate"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="141" pc="268436947" symbol="onUpdate"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="145" pc="268436982" symbol="onUpdate"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="148" pc="268437022" symbol="onUpdate"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="149" pc="268437053" symbol="onUpdate"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="150" pc="268437063" symbol="onUpdate"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="152" pc="268437088" symbol="onUpdate"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="153" pc="268437133" symbol="onUpdate"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="155" pc="268437178" symbol="onUpdate"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="158" pc="268437218" symbol="onUpdate"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="159" pc="268437255" symbol="onUpdate"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="160" pc="268437300" symbol="onUpdate"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="163" pc="268437345" symbol="onUpdate"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="164" pc="268437385" symbol="onUpdate"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="167" pc="268437430" symbol="onUpdate"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="168" pc="268437470" symbol="onUpdate"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="169" pc="268437528" symbol="onUpdate"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="170" pc="268437595" symbol="onUpdate"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="171" pc="268437656" symbol="onUpdate"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="174" pc="268437720" symbol="onUpdate"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="176" pc="268437734" symbol="onUpdate"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="179" pc="268437745" symbol="onUpdate"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="180" pc="268437762" symbol="onUpdate"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="183" pc="268437773" symbol="onUpdate"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="184" pc="268437813" symbol="onUpdate"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="186" pc="268437850" symbol="onUpdate"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="189" pc="268437901" symbol="onUpdate"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="193" pc="268437912" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="197" pc="268437916" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="198" pc="268437928" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="201" pc="268437945" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="202" pc="268437964" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="203" pc="268438001" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="206" pc="268438039" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="207" pc="268438060" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="208" pc="268438109" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="209" pc="268438158" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="212" pc="268438214" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="213" pc="268438254" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="221" pc="268438269" symbol="drawBackground"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="222" pc="268438273" symbol="drawBackground"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="223" pc="268438286" symbol="drawBackground"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="227" pc="268438299" symbol="drawBackground"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="228" pc="268438312" symbol="drawBackground"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="236" pc="268438346" symbol="onHide"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="240" pc="268438351" symbol="onExitSleep"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="241" pc="268438355" symbol="onExitSleep"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="246" pc="268438366" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="247" pc="268438370" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="248" pc="268438380" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="261" pc="268438399" symbol="onPowerBudgetExceeded"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="262" pc="268438403" symbol="onPowerBudgetExceeded"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="263" pc="268438435" symbol="onPowerBudgetExceeded"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockView.mc" lineNum="264" pc="268438467" symbol="onPowerBudgetExceeded"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockApp.mc" lineNum="5" pc="268438479" symbol="initialize"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockApp.mc" lineNum="6" pc="268438483" symbol="initialize"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockApp.mc" lineNum="10" pc="268438502" symbol="onStart"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockApp.mc" lineNum="14" pc="268438507" symbol="onStop"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockApp.mc" lineNum="18" pc="268438512" symbol="getInitialView"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockApp.mc" lineNum="19" pc="268438516" symbol="getInitialView"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockApp.mc" lineNum="20" pc="268438539" symbol="getInitialView"/>
+<entry filename="C:\\Users\\User\\Desktop\\Utveckling\\VilseClock\\.\\source\\VilseClockApp.mc" lineNum="22" pc="268438609" symbol="getInitialView"/>
+<entry filename="Rez" lineNum="19" pc="268438647" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="23" pc="268438659" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="24" pc="268438822" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="25" pc="268438847" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="26" pc="268438899" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="29" pc="268438945" symbol="WatchFace"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389349" symbol="justification"/>
+<entry id="8390097" method="true" symbol="onPartialUpdate"/>
+<entry id="12" object="true" symbol="VilseClockApp"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry field="true" id="24" symbol="VilseLogga"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry id="8390098" method="true" symbol="onPowerBudgetExceeded"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="8390101" object="true" symbol="BufferedBitmap"/>
+<entry field="true" id="13" symbol="mVilseLogo"/>
+<entry id="8390095" object="true" symbol="WatchFaceDelegate"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="26" symbol="AppName"/>
+<entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+<entry field="true" id="15" symbol="mOffscreenBuffer"/>
+<entry id="21" method="true" symbol="drawBackground"/>
+<entry field="true" id="25" symbol="LauncherIcon"/>
+<entry id="8389660" symbol="palette"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry field="true" id="18" symbol="mIsAwake"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry id="8389348" symbol="font"/>
+<entry id="8389347" symbol="color"/>
+<entry field="true" id="17" symbol="mDigitFont"/>
+<entry field="true" id="8389067" symbol="height"/>
+<entry field="true" id="14" symbol="mScreenCenterPoint"/>
+<entry id="20" method="true" symbol="generateTipCoordinates"/>
+<entry id="10" object="true" symbol="VilseClockView"/>
+<entry id="11" object="true" symbol="VilseClockDelegate"/>
+<entry id="23" module="true" symbol="Layouts"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry field="true" id="8389066" symbol="width"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry id="19" method="true" symbol="generateHandCoordinates"/>
+<entry field="true" id="16" symbol="mFullScreenRefresh"/>
+<entry id="22" module="true" symbol="Menus"/>
+<entry field="true" id="9" symbol="partialUpdatesAllowed"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435843" name="dc" stackId="1" startPc="268435523"/>
+<entry endPc="268436235" name="x" stackId="11" startPc="268436112"/>
+<entry endPc="268436235" name="y" stackId="12" startPc="268436112"/>
+<entry endPc="268436248" name="i" stackId="10" startPc="268436112"/>
+<entry endPc="268436251" name="result" stackId="7" startPc="268435852"/>
+<entry endPc="268436251" name="sin" stackId="9" startPc="268435852"/>
+<entry endPc="268436251" name="cos" stackId="8" startPc="268435852"/>
+<entry endPc="268436251" name="coords" stackId="6" startPc="268435852"/>
+<entry endPc="268436252" name="handLength" stackId="3" startPc="268435848"/>
+<entry endPc="268436252" name="tailLength" stackId="4" startPc="268435848"/>
+<entry endPc="268436252" name="width" stackId="5" startPc="268435848"/>
+<entry endPc="268436252" name="angle" stackId="2" startPc="268435848"/>
+<entry endPc="268436252" name="centerPoint" stackId="1" startPc="268435848"/>
+<entry endPc="268436599" name="x" stackId="11" startPc="268436476"/>
+<entry endPc="268436599" name="y" stackId="12" startPc="268436476"/>
+<entry endPc="268436612" name="i" stackId="10" startPc="268436476"/>
+<entry endPc="268436615" name="result" stackId="7" startPc="268436256"/>
+<entry endPc="268436615" name="sin" stackId="9" startPc="268436256"/>
+<entry endPc="268436615" name="cos" stackId="8" startPc="268436256"/>
+<entry endPc="268436615" name="coords" stackId="6" startPc="268436256"/>
+<entry endPc="268436616" name="handLength" stackId="3" startPc="268436252"/>
+<entry endPc="268436616" name="tipLength" stackId="4" startPc="268436252"/>
+<entry endPc="268436616" name="width" stackId="5" startPc="268436252"/>
+<entry endPc="268436616" name="angle" stackId="2" startPc="268436252"/>
+<entry endPc="268436616" name="centerPoint" stackId="1" startPc="268436252"/>
+<entry endPc="268437911" name="screenWidth" stackId="4" startPc="268436620"/>
+<entry endPc="268437911" name="width" stackId="2" startPc="268436620"/>
+<entry endPc="268437911" name="minuteHandAngle" stackId="6" startPc="268436620"/>
+<entry endPc="268437911" name="secondHand" stackId="8" startPc="268436620"/>
+<entry endPc="268437911" name="clockTime" stackId="5" startPc="268436620"/>
+<entry endPc="268437911" name="targetDc" stackId="9" startPc="268436620"/>
+<entry endPc="268437911" name="hourHandAngle" stackId="7" startPc="268436620"/>
+<entry endPc="268437911" name="height" stackId="3" startPc="268436620"/>
+<entry endPc="268437911" name="handWidth" stackId="10" startPc="268436620"/>
+<entry endPc="268437912" name="dc" stackId="1" startPc="268436616"/>
+<entry endPc="268438268" name="bboxHeight" stackId="6" startPc="268437916"/>
+<entry endPc="268438268" name="secondHand" stackId="3" startPc="268437916"/>
+<entry endPc="268438268" name="secondHandPoints" stackId="4" startPc="268437916"/>
+<entry endPc="268438268" name="bboxWidth" stackId="5" startPc="268437916"/>
+<entry endPc="268438268" name="clockTime" stackId="2" startPc="268437916"/>
+<entry endPc="268438269" name="dc" stackId="1" startPc="268437912"/>
+<entry endPc="268438345" name="height" stackId="3" startPc="268438273"/>
+<entry endPc="268438345" name="width" stackId="2" startPc="268438273"/>
+<entry endPc="268438346" name="dc" stackId="1" startPc="268438269"/>
+<entry endPc="268438478" name="powerInfo" stackId="1" startPc="268438399"/>
+<entry endPc="268438507" name="state" stackId="1" startPc="268438502"/>
+<entry endPc="268438512" name="state" stackId="1" startPc="268438507"/>
+<entry endPc="268438962" name="rez_cmp_local_bitmap_TimeLabel" stackId="2" startPc="268438659"/>
+<entry endPc="268438962" name="rez_cmp_local_bitmap_TimeLabel_fontHeight" stackId="3" startPc="268438659"/>
+<entry endPc="268438963" name="dc" stackId="1" startPc="268438647"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="VilseClockView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="VilseClockView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="VilseClockView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="generateHandCoordinates" parent="VilseClockView">
+<param id="centerPoint"/>
+<param id="angle"/>
+<param id="handLength"/>
+<param id="tailLength"/>
+<param id="width"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="generateTipCoordinates" parent="VilseClockView">
+<param id="centerPoint"/>
+<param id="angle"/>
+<param id="handLength"/>
+<param id="tipLength"/>
+<param id="width"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="VilseClockView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onPartialUpdate" parent="VilseClockView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawBackground" parent="VilseClockView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="VilseClockView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onExitSleep" parent="VilseClockView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onEnterSleep" parent="VilseClockView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onPowerBudgetExceeded" parent="VilseClockDelegate">
+<param id="powerInfo"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="VilseClockApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="VilseClockApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="VilseClockApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="VilseClockApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="WatchFace" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="182" parentId="globals" symbolId="VilseClockView" type="class"/>
+<dataEntry offset="357" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="436" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="483" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="514" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="545" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="576" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="615" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="654" parentId="globals" symbolId="VilseClockDelegate" type="class"/>
+<dataEntry offset="709" parentId="globals" symbolId="VilseClockApp" type="class"/>
+</dataEntryOffsetMappings>
+</debugInfo>

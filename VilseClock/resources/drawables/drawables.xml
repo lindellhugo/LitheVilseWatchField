@@ -1,0 +1,11 @@
+<drawables>
+    <bitmap id="LauncherIcon" filename="launcher_icon.png" />
+    <bitmap id="VilseLogga" x="0" y="0" filename="vilselogga255utanvisare.bmp" dithering="none">
+    	<palette disableTransparency="true">
+            <color>5F4B7E</color>
+            <color>F4FA58</color>
+            <color>DF3D3F</color>
+            <color>FFFFFF</color>
+        </palette>
+    </bitmap>
+</drawables>
