@@ -45,6 +45,7 @@ class VilseClockView extends Ui.WatchFace {
             mOffscreenBuffer = null;
         }
         
+        // Save the center point for future use to reduce calculations
         mScreenCenterPoint = [dc.getWidth()/2, dc.getHeight()/2];
 
     }
@@ -79,7 +80,7 @@ class VilseClockView extends Ui.WatchFace {
         return result;
     }
     
-    // Generate the tip coordinates, ie. the tip of the hands
+    // Generate the tip coordinates, ie. the tip (the little triangle) of the hands
     function generateTipCoordinates(centerPoint, angle, handLength, tipLength, width) {
         // Map out the coordinates of the watch hand
         var coords = [[-(width / 2), -handLength], [width / 2, -handLength], [0, -handLength - tipLength]];
@@ -125,7 +126,8 @@ class VilseClockView extends Ui.WatchFace {
         } else {
             targetDc = dc;
         }
-
+		
+		// Save width and height for future use
         width = targetDc.getWidth();
         height = targetDc.getHeight();
 
@@ -134,7 +136,7 @@ class VilseClockView extends Ui.WatchFace {
         targetDc.fillRectangle(0, 0, dc.getWidth(), dc.getHeight());
 
         
-        // Draw the vilse logo
+        // Draw the Vilse logo
         if (null != mVilseLogo) {
             targetDc.drawBitmap(mScreenCenterPoint[0] - 105, mScreenCenterPoint[1] - 105, mVilseLogo);
             System.println(mScreenCenterPoint[0]);
@@ -148,10 +150,10 @@ class VilseClockView extends Ui.WatchFace {
         hourHandAngle = (((clockTime.hour % 12) * 60) + clockTime.min);
         hourHandAngle = hourHandAngle / (12 * 60.0);
         hourHandAngle = hourHandAngle * Math.PI * 2;
-
-        targetDc.fillPolygon(generateHandCoordinates(mScreenCenterPoint, hourHandAngle, 70, 0, handWidth));
+		targetDc.fillPolygon(generateHandCoordinates(mScreenCenterPoint, hourHandAngle, 70, 0, handWidth));
 		targetDc.fillPolygon(generateTipCoordinates(mScreenCenterPoint, hourHandAngle, 70, 10, handWidth));
-		//Use white to draw the minute hand
+		
+		//Use red to draw the minute hand
         targetDc.setColor(Graphics.COLOR_RED, Graphics.COLOR_TRANSPARENT);
 		
         // Draw the minute hand.
@@ -159,7 +161,7 @@ class VilseClockView extends Ui.WatchFace {
         targetDc.fillPolygon(generateHandCoordinates(mScreenCenterPoint, minuteHandAngle, 70, 0, handWidth));
         targetDc.fillPolygon(generateTipCoordinates(mScreenCenterPoint, minuteHandAngle, 70, 10, handWidth));
 
-        // Draw the arbor in the center of the screen.
+        // Draw the circle in the center of the screen.
         targetDc.setColor(Graphics.COLOR_YELLOW, Graphics.COLOR_BLACK);
         targetDc.fillCircle(mScreenCenterPoint[0], mScreenCenterPoint[1], 9);
 
@@ -183,7 +185,7 @@ class VilseClockView extends Ui.WatchFace {
             dc.setColor(Graphics.COLOR_RED, Graphics.COLOR_TRANSPARENT);
             secondHand = (clockTime.sec / 60.0) * Math.PI * 2;
 
-            dc.fillPolygon(generateHandCoordinates(mScreenCenterPoint, secondHand, 60, 20, 2));
+            dc.fillPolygon(generateHandCoordinates(mScreenCenterPoint, secondHand, 80, 0, 2));
         }
 
         mFullScreenRefresh = false;
@@ -200,7 +202,7 @@ class VilseClockView extends Ui.WatchFace {
 
         var clockTime = System.getClockTime();
         var secondHand = (clockTime.sec / 60.0) * Math.PI * 2;
-        var secondHandPoints = generateHandCoordinates(mScreenCenterPoint, secondHand, 60, 20, 2);
+        var secondHandPoints = generateHandCoordinates(mScreenCenterPoint, secondHand, 80, 0, 2);
 
         // Update the cliping rectangle to the new location of the second hand.
         curClip = getBoundingBox( secondHandPoints );
@@ -219,9 +221,7 @@ class VilseClockView extends Ui.WatchFace {
     // onPartialUpdate uses this to blank the second hand from the previous
     // second before outputing the new one.
     function drawBackground(dc) {
-        var width = dc.getWidth();
-        var height = dc.getHeight();
-
+                
         //If we have an offscreen buffer that has been written to
         //draw it to the screen.
         if( null != mOffscreenBuffer ) {
